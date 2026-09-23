@@ -10,4 +10,4 @@ Hemos creado el proyecto:
 -Pedro
 -Pepe
 
-Esta modificación nos sirve para aprender Mark Down que por ejemplo los códigos "<H1>"  "</H2>" LOS COLOCA CON UNA ALMOHADILLA
+Esta modificación nos sirve para aprender Mark Down que por ejemplo los códigos `<H1> </H1>` LOS COLOCA CON UNA ALMOHADILLA
