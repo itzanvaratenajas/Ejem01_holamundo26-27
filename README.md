@@ -12,7 +12,6 @@ Hemos creado el proyecto:
 
 Esta modificación nos sirve para aprender Mark Down que por ejemplo los códigos `<H1> </H1>` LOS COLOCA CON UNA ALMOHADILLA
 
-| Syntax | Description |
+| versión | modificación |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 1.0 | creación de readme |
