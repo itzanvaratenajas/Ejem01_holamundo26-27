@@ -11,3 +11,8 @@ Hemos creado el proyecto:
 -Pepe
 
 Esta modificación nos sirve para aprender Mark Down que por ejemplo los códigos `<H1> </H1>` LOS COLOCA CON UNA ALMOHADILLA
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
