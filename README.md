@@ -15,3 +15,10 @@ Esta modificación nos sirve para aprender Mark Down que por ejemplo los código
 | versión | modificación |
 | ----------- | ----------- |
 | 1.0 | creación de readme |
+
+- [x] Comprar
+- [x] Escribir
+- [ ] Llamar
+
+That is so funny! :angry:
+
